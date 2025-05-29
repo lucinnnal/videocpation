@@ -1,0 +1,4 @@
+# Ignore processed video files
+processed_video/
+__pycache__/
+DS_Store/
